@@ -1,0 +1,8 @@
+baseURL = "https://westhewes.github.io/"
+languageCode = "en-us"
+title = "Wes Capades"
+theme = "hyde"
+
+[params]
+  description = "I'm a product guy and you're a produce girl. Let's make products!"
+  #themeColor = "theme-base-0e"
