@@ -42,7 +42,7 @@ Let's try it at 112 bpm
 How did that feel?
 ...
 ```
-5. After repeating the exercise a few times and giving `No mistakes but challenging`, increase the tempo
+5. After repeating the exercise a few times and responding `No mistakes but challenging`, increase the tempo
 6. When the time limit is over, ask if they'd like to continue practicing, to move on to another topic or to end the practice
 ```
 It's been 5 minutes, would you like to add time, move on to another exercise, or end your practice?
